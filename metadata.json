@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Conversational Voice Assistant",
+  "description": "A low-latency, real-time voice assistant powered by Gemini 2.5 Flash Native Audio. Features interactive visualizers, barge-in support, and seamless voice-to-voice communication.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
